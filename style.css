@@ -1,0 +1,24 @@
+body{
+  font-size: 30px;
+}
+header{
+  background-color: rgb(111, 111, 207);
+  height:100px
+}
+main{
+  height:500px;
+  width: 70%;
+  float:left;
+  background-color: yellow;
+}
+aside{
+  height:500px;
+  width: 30%;
+  float: right;
+  background-color:red;
+}
+footer{
+  height:100px;
+  background-color:aqua;
+  clear: both;
+}
